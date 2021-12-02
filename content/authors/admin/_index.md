@@ -1,6 +1,7 @@
 ---
 title: Yifan Zheng (郑逸凡)
-role: Clinical Pharmacist and Researcher
+role: Clinical Pharmacist and Researcher at the First Affiliated Hospital of Sun
+  Yat-sen University
 avatar_filename: 职业照.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
